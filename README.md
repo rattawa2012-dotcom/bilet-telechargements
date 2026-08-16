@@ -35,6 +35,12 @@ Pour obtenir ou renouveler une licence, contactez l’assistance BILET.
 
 La version commerciale de BILET Pay sera disponible prochainement, après la finalisation de son service de paiement.
 
+## Documentation et informations commerciales
+
+* [Guide d’installation et d’activation](https://github.com/rattawa2012-dotcom/bilet-telechargements/releases/download/hospitality-v2.4.0/Guide_BILET_Hospitality_V2.4.0.pdf)
+* [Fiche commerciale BILET Hospitality](https://github.com/rattawa2012-dotcom/bilet-telechargements/releases/download/hospitality-v2.4.0/Fiche_Commerciale_BILET_Hospitality_V2.4.0.pdf)
+* [Grille tarifaire 2026](https://github.com/rattawa2012-dotcom/bilet-telechargements/releases/download/hospitality-v2.4.0/Grille_Tarifaire_BILET_Hospitality_2026.pdf)
+  
 ## Assistance BILET
 
 * E-mail : [BILET.support@gmail.com](mailto:BILET.support@gmail.com)
